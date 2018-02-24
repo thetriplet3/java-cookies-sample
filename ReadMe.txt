@@ -7,3 +7,7 @@ mvn archetype:generate -DgroupId=sliit -DartifactId=myproject -DarchetypeArtifac
 Build Java project with maven
 
 mvn clean install
+
+
+java keytool commands
+https://www.sslshopper.com/article-most-common-java-keytool-keystore-commands.html
